@@ -8,5 +8,5 @@ def factorial(n):
         n -= 1
     return result
 
-ff = factorial(int(sys.argv[1]))
-print(ff)
+f = factorial(int(sys.argv[1]))
+print(f)
